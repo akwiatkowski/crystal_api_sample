@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  crystal-pg:
+    github: will/crystal-pg
+    version: 0.4.3
+
+  crystal_api:
+    github: akwiatkowski/crystal_api
+    version: HEAD
+
+  moonshine:
+    github: dhruvrajvanshi/Moonshine
+    version: HEAD
+

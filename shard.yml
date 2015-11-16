@@ -1,0 +1,11 @@
+name: crystal_api_sample
+version: 0.1.0
+
+authors:
+  - Aleksander Kwiatkowski <bobikx@poczta.fm>
+
+dependencies:
+  crystal_api:
+    github: "akwiatkowski/crystal_api"
+
+license: MIT
